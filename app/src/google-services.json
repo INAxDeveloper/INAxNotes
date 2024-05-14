@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307850278775",
+    "project_id": "inaxnotes-01",
+    "storage_bucket": "inaxnotes-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307850278775:android:8c96b0dd830a277a9c9372",
+        "android_client_info": {
+          "package_name": "com.inaxdevelopers.inaxnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJUkzFPKLGcDq8i8XnKp4BWfZTXHusEfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
